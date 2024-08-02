@@ -3,7 +3,7 @@
 # Función para mostrar la ayuda sobre el uso del script
 function mostrar_ayuda {
 
-    echo -e"""\n\t
+    echo -e """\n\t
      ┬─┐┌─┐┌─┐ ┌─┐┌┐┌┬ ┬┌┬┐
      ├┬┘├─┘│───├┤ ││││ ││││
      ┴└─┴  └─┘ └─┘┘└┘└─┘┴ ┴"""
