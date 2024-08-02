@@ -1,4 +1,4 @@
-![imagen script](img/Captura%20de%20pantalla%202024-08-01%20134636.png)
+![imagen script](img/Captura%20de%20pantalla%202024-08-02%20132020.png)
 
 
 <div style="display: flex; align-items: center;">
