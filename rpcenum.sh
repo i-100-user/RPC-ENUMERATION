@@ -3,17 +3,11 @@
 # Función para mostrar la ayuda sobre el uso del script
 function mostrar_ayuda {
 
-    echo -e """ 
     
-    RRRRRRRR CCCCCCCCCCC PPPPPPPPPP   EEEEEEE   N      N U        U MM      M
-    R      R CCCC        P        P   E         N N    N U        U M M    MM
-    RRRRRRRR CCC         P        P   E         N  N   N U        U M  M  M M
-    RR       CC          PPPPPPPPPP   EEEEEEE   N   N  N U        U M   MM  M
-    R R      CCC         P            E         N    N N U        U M       M
-    R  R     CCCC        P            E         N     NN U        U M       M 
-    R   R    CCCCCCCCCCC P            EEEEEEE   N      N UUUUUUUUUU M       M
-    
-    """
+    echo -e " ┬─┐┌─┐┌─┐ ┌─┐┌┐┌┬ ┬┌┬┐"
+    echo -e " ├┬┘├─┘│───├┤ ││││ ││││"
+    echo -e " ┴└─┴  └─┘ └─┘┘└┘└─┘┴ ┴"
+
 
     echo "Uso: $0 -s <IP_DEL_SERVIDOR> [-u <USUARIO> -p <CONTRASEÑA>] [-n (opcional)] -f <FUNCION>" # $0 es el primer parámetro , es una variable  especial en bash
     echo
